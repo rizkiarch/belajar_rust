@@ -5,7 +5,37 @@
 
 fn main() {
 
-    
+    // let mut counter = 0;
+    // let result = loop {
+    //     counter += 1;
+
+    //     if counter == 10 {
+    //         break counter * 2;
+    //     }
+    // };
+
+    // println!("result is : {result}");
+
+    // let mut i:i64 = 0;
+    // let max = 9;
+    // 'mainloop: loop {
+    //     i += 1;
+    //    let mut j = 0;
+
+    //    loop {
+    //     if i > max {
+    //         break 'mainloop;
+    //     }
+
+    //     j += 1;
+    //     if j> i {
+    //         break;
+    //     }
+    //     print!("{i} ");
+    //    }
+
+    //    println!();
+    // }
 
     // let mut i = 0;
     // let max = 5;
