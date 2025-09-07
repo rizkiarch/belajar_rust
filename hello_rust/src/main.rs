@@ -5,6 +5,67 @@
 
 fn main() {
 
+    // let data_array = [
+    //     ["jason", "david", "mike"],
+    //     ["chris", "anto", "budi"],
+    //     ["susi", "ani", "rita"]
+    // ];
+
+    // for sub_array in data_array {
+    //     for name in sub_array {
+    //         print!("{name}, ");
+    //     }
+    //     println!();
+    // }
+
+    // let names = ["jason", "david", "mike", "chris", "anto"];
+    // let length = names.len();
+    // println!("Panjang array names adalah: {}", length);
+
+    // let data_numerik1: [i32;10] = [0;10];
+    // println!("data numerik1: {data_numerik1:?}");
+
+    // let data_boolean: [bool;2] = [true, false];
+    // println!("data boolean: {data_boolean:?}");
+
+    // let angka_unsigned_integer: [u32;3] = [1, 2, 3];
+    // println!("array unsigned integer: {angka_unsigned_integer:?}");
+
+    // let angka_numbers = [1, 2, 3, 4, 5];
+    // println!("array sebelum diubah: {angka_numbers:?}");
+
+    // let angka_floating = [1.1, 2.2, 3.3, 4.4, 5.5];
+    // println!("array floating: {angka_floating:?}");
+
+    // let mut numbers = [1, 2, 3, 4, 5];
+    // println!("array sebelum diubah: {:?}", numbers);
+
+    // let data0 = numbers[0];
+    // println!("data index ke 0: {data0}");
+
+    // let data1 = numbers[1];
+    // println!("data index ke 1: {data1}" );
+
+    // numbers[1] = 20;
+    // numbers[3] = 40;
+    // println!("array setelah diubah: {:?}", numbers);
+
+    // let array = ["jason", "david", "mike", "chris", "anto"];
+    // for name in array {
+    //     println!("nama: {name}");
+    // }
+
+    // 'perulangan: for i in 0..=5 {
+    //     if i == 3 {
+    //         println!("ketemu 3, keluar dari perulangan");
+    //         break 'perulangan;
+    // }
+    //     println!("nilai: {i}");
+    // }
+    // for i in 0..=5 {
+    //     println!("nilai: {i}");
+    // }
+
     // let mut counter = 0;
     // let result = loop {
     //     counter += 1;
